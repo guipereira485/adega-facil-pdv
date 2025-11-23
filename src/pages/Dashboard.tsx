@@ -103,7 +103,7 @@ const Dashboard = () => {
                 <Wine className="w-6 h-6 text-primary-foreground" />
               </div>
               <div>
-                <h1 className="text-xl font-bold text-foreground">PDV Adegas</h1>
+                <h1 className="text-xl font-bold text-foreground">Smartmalte</h1>
                 <p className="text-xs text-muted-foreground">Sistema de Vendas</p>
               </div>
             </div>

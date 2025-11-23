@@ -93,7 +93,7 @@ const Login = () => {
           <div className="inline-flex items-center justify-center w-16 h-16 bg-primary rounded-2xl mb-4 shadow-lg">
             <Wine className="w-8 h-8 text-primary-foreground" />
           </div>
-          <h1 className="text-3xl font-bold text-white mb-2">PDV Adegas</h1>
+          <h1 className="text-3xl font-bold text-white mb-2">Smartmalte</h1>
           <p className="text-white/80">Sistema de Ponto de Venda</p>
         </div>
 
@@ -156,7 +156,7 @@ const Login = () => {
         </Card>
 
         <p className="text-center text-sm text-white/60 mt-6">
-          © 2025 PDV Adegas - Projeto Integrador FATEC
+          © 2025 Smartmalte - Projeto Integrador FATEC
         </p>
       </div>
     </div>

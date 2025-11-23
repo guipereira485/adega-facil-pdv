@@ -44,7 +44,7 @@ const Index = () => {
           </div>
           
           <h1 className="text-5xl md:text-6xl font-bold text-white mb-6">
-            PDV Adegas
+            Smartmalte
           </h1>
           
           <p className="text-xl text-white/90 mb-8 max-w-2xl mx-auto">
@@ -104,7 +104,7 @@ const Index = () => {
               FATEC Indaiatuba - Análise e Desenvolvimento de Sistemas
             </p>
             <p className="text-white/40 text-xs mt-4">
-              © 2025 PDV Adegas. Todos os direitos reservados.
+              © 2025 Smartmalte. Todos os direitos reservados.
             </p>
           </div>
         </div>
