@@ -7,10 +7,9 @@ const About = () => {
   const navigate = useNavigate();
 
   const teamMembers = [
-    { name: "Nome do Integrante 1", role: "Desenvolvedor" },
-    { name: "Nome do Integrante 2", role: "Desenvolvedor" },
-    { name: "Nome do Integrante 3", role: "Desenvolvedor" },
-    { name: "Nome do Integrante 4", role: "Desenvolvedor" },
+    { name: "Guilherme Pereira", role: "Desenvolvedor" },
+    { name: "Jeferson Nepomuceno", role: "Desenvolvedor" },
+    { name: "Pablo Lima", role: "Desenvolvedor" },
   ];
 
   return (
