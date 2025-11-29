@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Welcome to the Interdisciplinary Project - 5 Semester
 
 ## Project info
 
