@@ -64,6 +64,7 @@ const Index = () => {
               size="lg"
               variant="outline"
               className="text-lg px-8 bg-white/10 backdrop-blur-sm text-white border-white/30 hover:bg-white/20"
+              onClick={() => navigate("/about")}
             >
               Saiba Mais
             </Button>
