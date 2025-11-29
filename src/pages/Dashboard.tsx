@@ -2,6 +2,7 @@ import { useNavigate } from "react-router-dom";
 import { useEffect, useState } from "react";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
+import { ThemeToggle } from "@/components/ThemeToggle";
 import { 
   Wine, 
   ShoppingCart, 
@@ -113,6 +114,7 @@ const Dashboard = () => {
                 <p className="text-sm font-medium text-foreground">Operador</p>
                 <p className="text-xs text-muted-foreground">{userCPF}</p>
               </div>
+              <ThemeToggle />
               <Button
                 variant="outline"
                 size="sm"
