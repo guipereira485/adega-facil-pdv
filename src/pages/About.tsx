@@ -131,7 +131,7 @@ const About = () => {
               FATEC Indaiatuba - Análise e Desenvolvimento de Sistemas
             </p>
             <p className="text-white/60 text-sm mt-2">
-              Projeto Integrador - 1º Semestre de 2025
+              Projeto Integrador - 2º Semestre de 2025
             </p>
           </div>
         </div>
